@@ -16,7 +16,7 @@ It provides real-time weather updates for any city using an open weather API —
 
 ## 🚀 Demo
 
-🔗 **Live Demo:** [Click Here to View](#) _(https://harsh-sangwan2002.github.io/weather-app/)_
+🔗 **Live Demo:** [Click Here to View](#https://harsh-sangwan2002.github.io/weather-app/)
 
 ---
 
