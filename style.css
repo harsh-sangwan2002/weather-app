@@ -11,9 +11,15 @@ body {
     color: #fff;
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
+    gap: 5rem;
     justify-content: center;
     align-items: center;
     overflow: hidden;
+}
+
+body>h1 {
+    font-size: 4rem;
 }
 
 /* Container */
@@ -137,6 +143,11 @@ nav button:hover {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+
+    body>h1 {
+        font-size: 3rem;
+    }
+
     .container {
         padding: 1.5rem;
         gap: 1.5rem;

@@ -16,7 +16,7 @@ It provides real-time weather updates for any city using an open weather API —
 
 ## 🚀 Demo
 
-🔗 **Live Demo:** [Click Here to View](#) _(Add your hosted app link here — e.g. GitHub Pages or Netlify)_
+🔗 **Live Demo:** [Click Here to View](#) _()_
 
 ---
 
