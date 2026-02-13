@@ -30,6 +30,5 @@ buttonRef.addEventListener("click", async (e) => {
     setDateTime();
 
     const data = await fetchWeatherData(inputRef.value);
-    console.log(data);
     updateDOM(data);
 });
