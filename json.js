@@ -1,5 +1,7 @@
 const x = Symbol('123');
 
+// Keys are strings in json
+// Valid values are - string, number, boolean, null, objects, array
 const obj = {
     name: "Harsh",
     age: 32,
