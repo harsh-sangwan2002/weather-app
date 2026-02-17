@@ -7,12 +7,12 @@ It provides real-time weather updates for any city using an open weather API —
 
 ## ✨ Features
 
-✅ Search weather by **city name**
-✅ Displays **temperature**, **humidity**, **wind speed**, and **weather condition**
-✅ Dynamic **weather icons** that change with conditions
-✅ Beautiful **responsive design** for all devices
-✅ Smooth **animations and transitions**
-✅ Fetches live data using **OpenWeatherMap API**
+- ✅ Search weather by **city name**
+- ✅ Displays **temperature**, **humidity**, **wind speed**, and **weather condition**
+- ✅ Dynamic **weather icons** that change with conditions
+- ✅ Beautiful **responsive design** for all devices
+- ✅ Smooth **animations and transitions**
+- ✅ Fetches live data using **OpenWeatherMap API**
 
 ## 🚀 Demo
 
