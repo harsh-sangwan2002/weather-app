@@ -109,7 +109,3 @@ Feel free to open issues or suggestions for improvements.
 ---
 
 **Made with ❤️ by [Harsh Sangwan](https://github.com/harsh-sangwan2002)**
-
----
-
-Would you like me to **personalize it** with your name (“Harsh Sangwan”) and add your **YouTube/portfolio link** and **harsh-sangwan2002** to make it ready for upload?
